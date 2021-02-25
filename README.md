@@ -4,7 +4,7 @@
 
 - 🏢 I’m currently working at HT Micron.
 - 🌱 I’m currently learning Node.js and TypeScript.
-- 📫 Reach me: [www.linkedin.com/in/victormspeixoto](https://www.linkedin.com/in/victormspeixoto/).
+- 📫 Reach me: [linkedin.com/in/victormspeixoto](https://www.linkedin.com/in/victormspeixoto/).
 
 <!--
 **victormsp/victormsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
