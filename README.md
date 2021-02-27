@@ -3,7 +3,8 @@
 #### I'm a Software Developer working in São Leopoldo, Brasil.
 
 - 🏢 I’m currently working at HT Micron.
-- 🌱 I’m currently learning Node.js and TypeScript.
+- 🌱 I’m currently learning TypeScript and Node.js (and React).
+- 💻 I have experience with C#, C++ and SQL.  
 - 📫 Reach me: [linkedin.com/in/victormspeixoto](https://www.linkedin.com/in/victormspeixoto/).
 
 <!--
