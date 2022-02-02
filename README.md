@@ -3,8 +3,8 @@
 #### I'm a Software Developer working in São Leopoldo, Brasil.
 
 - 🏢 I’m currently working at SAP Labs.
-- 🌱 I’m currently learning TypeScript, Node.js and React.
-- 💻 I have experience with C#, C++ and SQL.  
+- 🌱 I’m currently learning React.
+- 💻 I have experience with TypeScript, Node.js, C#, C++ and SQL.  
 - 📫 Reach me: [linkedin.com/in/victormspeixoto](https://www.linkedin.com/in/victormspeixoto/).
 
 <!--
