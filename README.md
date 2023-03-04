@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#### I'm a Senior Software Developer working in São Leopoldo, Brasil.
+#### I'm a Senior Software Engineer working in São Leopoldo, RS, Brasil.
 
 - 🏢 I’m currently working at Microsoft.
-- 🌱 I’m currently learning .NET and Azure.
+- 🌱 I’m currently learning .NET.
 - 💻 I have experience with .NET, C#, TypeScript, Node.js, SQL and C++.  
 - 📫 Reach me: [linkedin.com/in/victormspeixoto](https://www.linkedin.com/in/victormspeixoto/).
 
