@@ -4,7 +4,7 @@
 
 - 🏢 I’m currently working at Microsoft.
 - 🌱 I’m currently learning .NET.
-- 💻 I have experience with .NET, C#, TypeScript, Node.js, SQL and C++.  
+- 💻 I have experience with .NET, C#, TypeScript, Node.js, SQL and C++ (among other stuff).  
 - 📫 Reach me: [linkedin.com/in/victormspeixoto](https://www.linkedin.com/in/victormspeixoto/).
 
 <!--
